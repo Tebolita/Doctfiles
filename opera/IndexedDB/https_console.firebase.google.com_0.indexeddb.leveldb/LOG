@@ -1,0 +1,48 @@
+2022/04/27-22:17:32.434 300f Reusing MANIFEST /home/tebolita/.config/opera/IndexedDB/https_console.firebase.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/27-22:17:32.434 300f Recovering log #4
+2022/04/27-22:17:32.449 300f Reusing old log /home/tebolita/.config/opera/IndexedDB/https_console.firebase.google.com_0.indexeddb.leveldb/000004.log 
+2022/04/27-22:17:33.281 1c5f Level-0 table #8: started
+2022/04/27-22:17:33.302 1c5f Level-0 table #8: 3879 bytes OK
+2022/04/27-22:17:33.349 1c5f Delete type=0 #4
+2022/04/27-22:17:33.349 1c5f Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/28-00:37:51.938 7c47 Level-0 table #10: started
+2022/04/28-00:37:51.995 7c47 Level-0 table #10: 2918 bytes OK
+2022/04/28-00:37:52.029 7c47 Delete type=0 #7
+2022/04/28-00:37:52.029 7c47 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 217 : 1
+2022/04/28-00:37:52.029 7c47 Compacting 1@0 + 1@1 files
+2022/04/28-00:37:52.051 7c47 Generated table #11@0: 63 keys, 1761 bytes
+2022/04/28-00:37:52.051 7c47 Compacted 1@0 + 1@1 files => 1761 bytes
+2022/04/28-00:37:52.085 7c47 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/28-00:37:52.085 7c47 Delete type=2 #10
+2022/04/28-00:37:52.085 7c47 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 217 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/28-00:45:23.525 6743 Level-0 table #13: started
+2022/04/28-00:45:23.548 6743 Level-0 table #13: 1715 bytes OK
+2022/04/28-00:45:23.605 6743 Delete type=2 #8
+2022/04/28-00:45:23.605 6743 Delete type=0 #9
+2022/04/28-00:45:23.605 6743 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 260 : 1
+2022/04/28-00:45:23.605 6743 Compacting 1@0 + 1@1 files
+2022/04/28-00:45:23.650 6743 Generated table #14@0: 67 keys, 1800 bytes
+2022/04/28-00:45:23.650 6743 Compacted 1@0 + 1@1 files => 1800 bytes
+2022/04/28-00:45:23.684 6743 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/28-00:45:23.684 6743 Delete type=2 #13
+2022/04/28-00:45:23.684 6743 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 260 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/29-14:59:30.430 8cc7 Level-0 table #16: started
+2022/04/29-14:59:30.452 8cc7 Level-0 table #16: 1432 bytes OK
+2022/04/29-14:59:30.486 8cc7 Delete type=0 #12
+2022/04/29-14:59:30.486 8cc7 Delete type=2 #11
+2022/04/29-14:59:30.487 8cc7 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x000\x003\x005\x000\x006\x006\x001\x008\x007\x009\x009\x00:\x00w\x00e\x00b\x00:\x00b\x007\x008\x00d\x003\x001\x00c\x001\x00a\x00e\x005\x007\x000\x00d\x003\x00b\x005\x00c\x003\x007\x005\x00a' @ 279 : 1
+2022/04/29-14:59:30.487 8cc7 Compacting 1@0 + 1@1 files
+2022/04/29-14:59:30.509 8cc7 Generated table #17@0: 77 keys, 1917 bytes
+2022/04/29-14:59:30.509 8cc7 Compacted 1@0 + 1@1 files => 1917 bytes
+2022/04/29-14:59:30.543 8cc7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/29-14:59:30.543 8cc7 Delete type=2 #16
+2022/04/29-14:59:30.543 8cc7 Delete type=2 #14
+2022/04/29-14:59:30.543 8cc7 Manual compaction at level-0 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x000\x003\x005\x000\x006\x006\x001\x008\x007\x009\x009\x00:\x00w\x00e\x00b\x00:\x00b\x007\x008\x00d\x003\x001\x00c\x001\x00a\x00e\x005\x007\x000\x00d\x003\x00b\x005\x00c\x003\x007\x005\x00a' @ 279 : 1 .. (end); will stop at (end)
+2022/04/29-14:59:30.543 8cc7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x000\x003\x005\x000\x006\x006\x001\x008\x007\x009\x009\x00:\x00w\x00e\x00b\x00:\x00b\x007\x008\x00d\x003\x001\x00c\x001\x00a\x00e\x005\x007\x000\x00d\x003\x00b\x005\x00c\x003\x007\x005\x00a' @ 287 : 1
+2022/04/29-14:59:30.543 8cc7 Compacting 1@1 + 1@2 files
+2022/04/29-14:59:30.566 8cc7 Generated table #18@1: 21 keys, 1309 bytes
+2022/04/29-14:59:30.566 8cc7 Compacted 1@1 + 1@2 files => 1309 bytes
+2022/04/29-14:59:30.612 8cc7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/29-14:59:30.613 8cc7 Delete type=2 #5
+2022/04/29-14:59:30.613 8cc7 Delete type=2 #17
+2022/04/29-14:59:30.613 8cc7 Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x000\x003\x005\x000\x006\x006\x001\x008\x007\x009\x009\x00:\x00w\x00e\x00b\x00:\x00b\x007\x008\x00d\x003\x001\x00c\x001\x00a\x00e\x005\x007\x000\x00d\x003\x00b\x005\x00c\x003\x007\x005\x00a' @ 287 : 1 .. (end); will stop at (end)

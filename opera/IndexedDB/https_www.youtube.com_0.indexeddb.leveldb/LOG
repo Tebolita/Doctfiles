@@ -1,0 +1,12 @@
+2022/04/23-15:11:46.346 29a Reusing MANIFEST /home/tebolita/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/23-15:11:46.347 29a Recovering log #15
+2022/04/23-15:11:47.303 29a Reusing old log /home/tebolita/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2022/04/23-15:12:41.863 2c2 Level-0 table #20: started
+2022/04/23-15:12:41.940 2c2 Level-0 table #20: 1089868 bytes OK
+2022/04/23-15:12:41.998 2c2 Delete type=0 #15
+2022/04/26-22:27:29.957 29a Compacting 1@1 + 1@2 files
+2022/04/26-22:27:29.995 29a Generated table #21@1: 293 keys, 30482 bytes
+2022/04/26-22:27:29.995 29a Compacted 1@1 + 1@2 files => 30482 bytes
+2022/04/26-22:27:30.029 29a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/26-22:27:30.029 29a Delete type=2 #20
+2022/04/26-22:27:30.029 29a Delete type=2 #17

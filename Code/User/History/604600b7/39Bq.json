@@ -1,0 +1,6 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Midnight City",
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "workbench.startupEditor": "none"
+}

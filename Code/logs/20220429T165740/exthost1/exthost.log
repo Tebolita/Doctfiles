@@ -1,0 +1,18 @@
+[2022-04-29 16:57:43.230] [exthost] [info] Extension host with pid 62215 started
+[2022-04-29 16:57:43.230] [exthost] [info] Skipping acquiring lock for /home/tebolita/.config/Code/User/workspaceStorage/048eb1c60594462a481706f3d6d6f682.
+[2022-04-29 16:57:43.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-04-29 16:57:43.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-29 16:57:43.497] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-29 16:57:43.510] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-29 16:57:43.514] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-04-29 16:57:43.522] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc, startup: true, activationEvent: '*'
+[2022-04-29 16:57:44.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-29 16:57:44.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-29 16:57:44.765] [exthost] [info] Eager extensions activated
+[2022-04-29 16:57:45.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 16:57:45.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 16:57:45.317] [exthost] [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 17:09:53.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-29 17:09:53.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-29 17:09:53.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-29 17:09:53.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

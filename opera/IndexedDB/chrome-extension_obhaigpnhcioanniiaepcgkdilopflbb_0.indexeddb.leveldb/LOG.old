@@ -1,0 +1,12 @@
+2022/04/23-15:11:50.125 2c3 Reusing MANIFEST /home/tebolita/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/23-15:11:50.125 2c3 Recovering log #6
+2022/04/23-15:11:50.127 2c3 Reusing old log /home/tebolita/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/000006.log 
+2022/04/27-23:15:13.938 4d4a Level-0 table #11: started
+2022/04/27-23:15:14.043 4d4a Level-0 table #11: 4059121 bytes OK
+2022/04/27-23:15:14.079 4d4a Delete type=0 #6
+2022/04/28-00:24:37.891 54b9 Compacting 1@1 + 1@2 files
+2022/04/28-00:24:37.922 54b9 Generated table #12@1: 26 keys, 12625 bytes
+2022/04/28-00:24:37.922 54b9 Compacted 1@1 + 1@2 files => 12625 bytes
+2022/04/28-00:24:37.990 54b9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/28-00:24:37.990 54b9 Delete type=2 #11
+2022/04/28-00:24:37.990 54b9 Delete type=2 #8

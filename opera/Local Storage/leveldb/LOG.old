@@ -1,0 +1,9 @@
+2022/04/23-15:11:29.285 3 Reusing MANIFEST /home/tebolita/.config/opera/Local Storage/leveldb/MANIFEST-000001
+2022/04/23-15:11:29.335 3 Recovering log #32
+2022/04/23-15:11:29.419 3 Reusing old log /home/tebolita/.config/opera/Local Storage/leveldb/000032.log 
+2022/04/26-22:54:48.378 1a Level-0 table #37: started
+2022/04/26-22:54:48.425 1a Level-0 table #37: 21066 bytes OK
+2022/04/26-22:54:48.460 1a Delete type=0 #32
+2022/04/27-23:14:07.157 28 Level-0 table #39: started
+2022/04/27-23:14:07.181 28 Level-0 table #39: 16230 bytes OK
+2022/04/27-23:14:07.213 28 Delete type=0 #36

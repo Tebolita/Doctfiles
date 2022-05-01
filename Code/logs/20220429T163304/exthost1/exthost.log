@@ -1,0 +1,15 @@
+[2022-04-29 16:33:08.340] [exthost] [info] Extension host with pid 55986 started
+[2022-04-29 16:33:08.340] [exthost] [info] Skipping acquiring lock for /home/tebolita/.config/Code/User/workspaceStorage/ccf1559624a092c6fb5ba3940ebbebb1.
+[2022-04-29 16:33:08.680] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-29 16:33:08.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-29 16:33:08.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-29 16:33:08.700] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-04-29 16:33:08.715] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc, startup: true, activationEvent: '*'
+[2022-04-29 16:33:08.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-29 16:33:08.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-29 16:33:09.077] [exthost] [info] Eager extensions activated
+[2022-04-29 16:33:09.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 16:33:09.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 16:33:09.155] [exthost] [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 16:55:04.363] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-29 16:55:04.380] [exthost] [info] Extension host with pid 55986 exiting with code 0

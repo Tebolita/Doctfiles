@@ -1,0 +1,25 @@
+00:00:00.331158 VirtualBox GUI VM Selector Window 6.1.34 r150636 linux.amd64 (Apr 21 2022 20:04:42) release log
+00:00:00.331161 Log opened 2022-05-01T00:44:09.878963000Z
+00:00:00.331165 Build Type: release
+00:00:00.331172 OS Product: Linux
+00:00:00.331175 OS Release: 5.17.5-arch1-1
+00:00:00.331180 OS Version: #1 SMP PREEMPT Wed, 27 Apr 2022 20:56:11 +0000
+00:00:00.331212 DMI Product Name: Inspiron 3585
+00:00:00.331223 DMI Product Version: 1.4.0
+00:00:00.331232 Firmware type: UEFI
+00:00:00.331602 Secure Boot: Disabled
+00:00:00.331671 Host RAM: 13941MB (13.6GB) total, 13494MB (13.1GB) available
+00:00:00.331679 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.331681 Process ID: 3576
+00:00:00.331686 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.331770 Qt version: 5.15.3
+00:00:00.347572 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.347626 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.880695 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 12x12 x 688x740
+00:01:07.156030 GUI: UIMediumEnumerator: Medium with key={{777ab1eb-87c8-40c6-a81c-4575a2d8bf40}} created
+00:01:07.568282 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:59.832656 GUI: UIMediumEnumerator: Medium with key={{d5fe34bc-f741-4623-b477-684e75b30e0a}} created
+00:01:59.937927 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:06.366766 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:06.388214 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:17.836879 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

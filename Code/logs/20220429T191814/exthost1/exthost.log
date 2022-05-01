@@ -1,0 +1,16 @@
+[2022-04-29 19:18:24.009] [exthost] [info] Extension host with pid 932 started
+[2022-04-29 19:18:24.009] [exthost] [info] Skipping acquiring lock for /home/tebolita/.config/Code/User/workspaceStorage/048eb1c60594462a481706f3d6d6f682.
+[2022-04-29 19:18:24.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-04-29 19:18:24.331] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-29 19:18:24.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-29 19:18:24.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-29 19:18:24.862] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-04-29 19:18:25.019] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc, startup: true, activationEvent: '*'
+[2022-04-29 19:18:26.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-29 19:18:27.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-29 19:18:27.869] [exthost] [info] Eager extensions activated
+[2022-04-29 19:18:27.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 19:18:28.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 19:18:28.490] [exthost] [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-30 03:09:21.178] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-30 03:09:21.207] [exthost] [info] Extension host with pid 932 exiting with code 0

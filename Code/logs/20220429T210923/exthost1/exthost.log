@@ -1,0 +1,16 @@
+[2022-04-29 21:09:27.434] [exthost] [info] Extension host with pid 3847 started
+[2022-04-29 21:09:27.434] [exthost] [info] Skipping acquiring lock for /home/tebolita/.config/Code/User/workspaceStorage/048eb1c60594462a481706f3d6d6f682.
+[2022-04-29 21:09:27.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-04-29 21:09:27.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-29 21:09:27.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-29 21:09:27.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-29 21:09:27.699] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-04-29 21:09:27.731] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc, startup: true, activationEvent: '*'
+[2022-04-29 21:09:28.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-29 21:09:28.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-29 21:09:28.663] [exthost] [info] Eager extensions activated
+[2022-04-29 21:09:28.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 21:09:28.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 21:09:28.886] [exthost] [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-29 21:16:31.209] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-29 21:16:31.239] [exthost] [info] Extension host with pid 3847 exiting with code 0

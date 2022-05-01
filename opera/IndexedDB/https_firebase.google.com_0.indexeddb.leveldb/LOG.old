@@ -1,0 +1,7 @@
+2022/04/28-00:24:46.575 6743 Reusing MANIFEST /home/tebolita/.config/opera/IndexedDB/https_firebase.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/28-00:24:46.575 6743 Recovering log #3
+2022/04/28-00:24:46.598 6743 Reusing old log /home/tebolita/.config/opera/IndexedDB/https_firebase.google.com_0.indexeddb.leveldb/000003.log 
+2022/04/28-00:39:51.482 82b3 Level-0 table #5: started
+2022/04/28-00:39:51.527 82b3 Level-0 table #5: 5285 bytes OK
+2022/04/28-00:39:51.563 82b3 Delete type=0 #3
+2022/04/28-00:39:51.563 82b3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

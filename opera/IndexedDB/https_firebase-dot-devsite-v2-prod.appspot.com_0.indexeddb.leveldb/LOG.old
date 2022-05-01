@@ -1,0 +1,6 @@
+2022/04/21-18:35:52.737 b97e Creating DB /home/tebolita/.config/opera/IndexedDB/https_firebase-dot-devsite-v2-prod.appspot.com_0.indexeddb.leveldb since it was missing.
+2022/04/21-18:35:52.818 b97e Reusing MANIFEST /home/tebolita/.config/opera/IndexedDB/https_firebase-dot-devsite-v2-prod.appspot.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/21-18:36:25.275 a6fe Level-0 table #5: started
+2022/04/21-18:36:25.297 a6fe Level-0 table #5: 1282 bytes OK
+2022/04/21-18:36:25.373 a6fe Delete type=0 #3
+2022/04/21-18:36:25.373 a6fe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

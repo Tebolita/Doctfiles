@@ -1,0 +1,29 @@
+[bar/spotify]
+width = 40%
+height = 30
+radius = 9.9
+
+offset-x = 350
+offset-y = 0
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 3pt
+
+border-size = 4pt
+border-color = #00000000
+
+bottom = true
+fixed-center = true
+
+font-0 = monospace;2
+font-1 = "Font Awesome 6 Free:style=Regular:pixelsize=15;1"
+font-2 = "Font Awesome 6 Free:style=Solid:pixelsize=15;1"
+font-3 = "Font Awesome 6 Brands Regular:pixelsize=15;1"
+font-4 = "Font Awesome 6 Brands Solid:style=Regular:pixelsize=15;1"
+
+
+modules-left = 
+modules-center = spotify 
+modules-right =

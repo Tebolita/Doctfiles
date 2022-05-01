@@ -1,0 +1,48 @@
+2022/04/21-12:50:18.204 9364 Creating DB /home/tebolita/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/04/21-12:50:18.273 9364 Reusing MANIFEST /home/tebolita/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/21-12:50:45.759 9371 Level-0 table #5: started
+2022/04/21-12:50:45.805 9371 Level-0 table #5: 70308 bytes OK
+2022/04/21-12:50:45.872 9371 Delete type=0 #3
+2022/04/21-12:50:45.873 9371 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/21-12:50:46.020 9364 Level-0 table #7: started
+2022/04/21-12:50:46.042 9364 Level-0 table #7: 12871 bytes OK
+2022/04/21-12:50:46.111 9364 Delete type=0 #4
+2022/04/21-12:50:46.111 9364 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/21-12:50:46.111 9364 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 1679 : 1
+2022/04/21-12:50:46.111 9364 Compacting 1@1 + 1@2 files
+2022/04/21-12:50:46.135 9364 Generated table #8@1: 336 keys, 32973 bytes
+2022/04/21-12:50:46.135 9364 Compacted 1@1 + 1@2 files => 32973 bytes
+2022/04/21-12:50:46.202 9364 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/21-12:50:46.202 9364 Delete type=2 #7
+2022/04/21-12:50:46.202 9364 Manual compaction at level-1 from '\x00\x0c\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 1679 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/21-12:50:46.203 9371 Level-0 table #10: started
+2022/04/21-12:50:46.225 9371 Level-0 table #10: 1780 bytes OK
+2022/04/21-12:50:46.275 9371 Delete type=0 #6
+2022/04/21-12:50:46.275 9371 Delete type=2 #5
+2022/04/21-12:50:46.275 9371 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/21-12:50:46.276 935f Manual compaction at level-1 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\x10@' @ 1803 : 0
+2022/04/21-12:50:46.276 935f Compacting 1@1 + 1@2 files
+2022/04/21-12:50:46.293 935f Generated table #11@1: 274 keys, 20933 bytes
+2022/04/21-12:50:46.293 935f Compacted 1@1 + 1@2 files => 20933 bytes
+2022/04/21-12:50:46.416 935f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/21-12:50:46.416 935f Delete type=2 #10
+2022/04/21-12:50:46.416 935f Manual compaction at level-1 from '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\x10@' @ 1803 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/21-22:02:42.184 b97f Level-0 table #13: started
+2022/04/21-22:02:42.231 b97f Level-0 table #13: 772037 bytes OK
+2022/04/21-22:02:42.300 b97f Delete type=2 #8
+2022/04/21-22:02:42.300 b97f Delete type=0 #9
+2022/04/21-22:04:08.074 d8d8 Compacting 1@1 + 1@2 files
+2022/04/21-22:04:08.208 d8d8 Generated table #14@1: 355 keys, 33001 bytes
+2022/04/21-22:04:08.208 d8d8 Compacted 1@1 + 1@2 files => 33001 bytes
+2022/04/21-22:04:08.265 d8d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/21-22:04:08.265 d8d8 Delete type=2 #11
+2022/04/21-22:04:08.265 d8d8 Delete type=2 #13
+2022/04/21-23:05:41.271 e0ed Level-0 table #16: started
+2022/04/21-23:05:41.321 e0ed Level-0 table #16: 730850 bytes OK
+2022/04/21-23:05:41.356 e0ed Delete type=0 #12
+2022/04/21-23:06:32.942 e0ed Compacting 1@1 + 1@2 files
+2022/04/21-23:06:33.010 e0ed Generated table #17@1: 379 keys, 31644 bytes
+2022/04/21-23:06:33.010 e0ed Compacted 1@1 + 1@2 files => 31644 bytes
+2022/04/21-23:06:33.077 e0ed compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/21-23:06:33.077 e0ed Delete type=2 #16
+2022/04/21-23:06:33.077 e0ed Delete type=2 #14

@@ -1,0 +1,4 @@
+[2022-04-30 09:57:25.256] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-30 09:57:25.455] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-30 09:57:25.729] [renderer1] [error] ["Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files"]
+[2022-04-30 09:57:25.730] [renderer1] [warning] Settings Sync: Accounts are not initialized

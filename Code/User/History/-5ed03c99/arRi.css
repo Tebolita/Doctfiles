@@ -1,0 +1,52 @@
+// See a different, but crisper, version of this at a.singlediv.com
+
+p-color(degree, color, start, end)
+  linear-gradient(degree, transparent start, color start, color end, transparent end)
+p-line(degree, start, end)
+  linear-gradient(degree, transparent start, black start, black end, transparent end)
+
+body
+  height: 100vh
+  width: 100vw
+  margin: 0
+  background-color: rebeccapurple
+  background-image: linear-gradient( 45deg, black, black .5%,
+                                            gold .5%, gold 7.6%,
+                                            black 7.6%, black 8.642857143%,
+                                            darkorange 8.642857143%, darkorange 15.64285714%,
+                                            black 15.64285714%, black 16.88571429%,
+                                            crimson 16.88571429%, crimson 23.84285714%,
+                                            black 23.84285714%, black 25%,
+                                            transparent 25%),
+                    linear-gradient(-45deg, black, black .5%,
+                                            gold .5%, gold 7.6%,
+                                            black 7.6%, black 8.642857143%,
+                                            darkorange 8.642857143%, darkorange 15.64285714%,
+                                            black 15.64285714%, black 16.88571429%,
+                                            crimson 16.88571429%, crimson 23.84285714%,
+                                            black 23.84285714%, black 25%,
+                                            transparent 25%),
+                    p-line( 45deg, 73.857142860%, 75%),
+                    p-line(-45deg, 73.857142860%, 75%),
+                    p-color( 45deg, crimson, 66.857142860%, 73.857142860%),
+                    p-color(-45deg, crimson, 66.857142860%, 73.857142860%),
+                    p-line( 45deg, 65.714285710%, 66.857142860%),
+                    p-line(-45deg, 65.714285710%, 66.857142860%),
+                    p-color( 45deg, darkorange, 58.714285710%, 65.714285710%),
+                    p-color(-45deg, darkorange, 58.714285710%, 65.714285710%),
+                    p-line( 45deg, 57.571428570%, 58.714285710%),
+                    p-line(-45deg, 57.571428570%, 58.714285710%),
+                    p-color( 45deg, gold, 50.571428570%, 57.571428570%),
+                    p-color(-45deg, gold, 50.571428570%, 57.571428570%),
+                    p-line( 45deg, 49.428571430%, 50.571428570%),
+                    p-line(-45deg, 49.428571430%, 50.571428570%),
+                    p-color( 45deg, forestgreen, 42.428571430%, 49.428571430%),
+                    p-color(-45deg, forestgreen, 42.428571430%, 49.428571430%),
+                    p-line( 45deg, 41.285714290%, 42.428571430%),
+                    p-line(-45deg, 41.285714290%, 42.428571430%),
+                    p-color( 45deg, royalblue, 34.285714290%, 41.285714290%),
+                    p-color(-45deg, royalblue, 34.285714290%, 41.285714290%),
+                    p-line( 45deg, 33.142857143%, 34.285714290%),
+                    p-line(-45deg, 33.142857143%, 34.285714290%)
+  background-size: 100px 100px
+  background-position: 0 0
